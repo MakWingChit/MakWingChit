@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on the CSCI3251 project!
-🌱 I’m currently learning react
+🔭 I’m currently working on CEDD 3D DMM revamp
+🌱 I’m currently learning ArcGIS Pro SDK 
 <!--
 **MakWingChit/MakWingChit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
